@@ -1,0 +1,15 @@
+Task Manager App Backend
+Introduction
+Welcome to the repository for the backend of our Task Manager App. This application is designed to streamline task management processes, providing a robust and user-friendly interface for managing daily tasks.
+
+Built With
+Spring Framework: The backend of this app is built using the Spring Framework, an application framework and inversion of control container for the Java platform. This framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications.
+
+MongoDB: For database management, we use MongoDB, a NoSQL database program that uses JSON-like documents with optional schemas. MongoDB provides high performance, high availability, and easy scalability.
+
+Features
+Task Management: Create, read, update, and delete tasks.
+User Authentication: Manage user accounts and sessions.
+Real-time Updates: Synchronize tasks across devices in real-time.
+API Testing
+Postman: The APIs for this application have been rigorously tested using Postman, a popular API client that makes it easy to create, share, test and document APIs.
