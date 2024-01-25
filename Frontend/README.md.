@@ -1,0 +1,12 @@
+Task Manager App Frontend
+Introduction
+Welcome to the frontend of the Task Manager App, an intuitive and efficient application designed for managing tasks effortlessly. This repository contains the Android application source code, providing a sleek and user-friendly interface.
+
+Built With
+Android Studio: The frontend is developed in Android Studio, the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA. Android Studio offers a rich set of tools to build apps for Android phones, tablets, Android Wear, Android TV, and Android Auto.
+Features
+User-Friendly Interface: A clean and intuitive interface to view and manage tasks.
+Task Operations: Users can add, view, edit, and delete tasks seamlessly.
+Synchronization: Seamless integration with the backend for real-time task updates.
+Testing
+Android Emulator: The app has been thoroughly tested using the built-in emulator in Android Studio, which simulates different Android devices and OS versions.
